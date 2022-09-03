@@ -5,7 +5,8 @@ These scripts are made to work with the arduino uno and use the .ino file type t
 if your code editor/uploader does not support this file type, you can copy paste the code and edit it to work such as I did in Visual Studio code
 
 More scripts coming soon for different controllers:
-RoboArm Computer controlled - The computer is meant to directly communicate with the RoboArm through serial communication using keyboard input
+
+RoboArm Computer controlled - The computer is meant to directly communicate with the RoboArm through serial communication using keyboard input (ready to use)
 
 RoboArm 8 buttons - This script is for the 8 button controller made to communicate directly with the RoboArm, does not require computer to be connected to arduino (coming soon)
 
